@@ -21,9 +21,10 @@
   "dependencies": {
     "expo": "^25.0.0",
     "fortune-cookie": "^0.0.1",
+    "ramda": "^0.25.0",
     "random-int": "^1.0.0",
     "react": "16.2.0",
     "react-declarative-container": "^1.0.1",
-    "react-native": "0.52.0"
+    "react-native": "https://github.com/expo/react-native/archive/sdk-25.0.0.tar.gz"
   }
 }

@@ -1,16 +1,22 @@
 {
   "expo": {
-    "name": "fortune-cookie63",
+    "name": "fortunecookie63",
     "description": "get your future from an app",
-    "slug": "fortune-cookie63",
-    "version": "1.0.0",
+    "slug": "fortunecookie63",
+    "version": "1.0.1",
     "sdkVersion": "25.0.0",
-    "icon": "fcicon.png",
+    "icon": "./assets/fcicon.png",
     "ios": {
       "bundleIdentifier": "com.twilson63.fortunecookie63"
     },
     "android": {
       "package": "com.twilson63.fortunecookie63"
+    },
+    "splash": {
+      "image": "./assets/splash.png"
+    },
+    "infoPlist": {
+      "NSCameraUsageDescription": "Can override Plist info here"
     }
   }
 }
