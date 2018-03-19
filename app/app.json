@@ -1,10 +1,16 @@
 {
   "expo": {
-    "name": "fortune-cookie-db",
-    "description": "daily random fortune",
-    "slug": "fc-db",
+    "name": "fortune-cookie63",
+    "description": "get your future from an app",
+    "slug": "get-your-future",
     "version": "1.0.0",
     "sdkVersion": "25.0.0",
-    "icon": "fcicon.png"
+    "icon": "fcicon.png",
+    "ios": {
+      "bundleIdentifier": "com.twilson63.fortune-cookie63"
+    },
+    "android": {
+      "package": "com.twilson63.fortune-cookie63"
+    }
   }
 }
