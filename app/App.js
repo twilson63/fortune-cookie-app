@@ -44,7 +44,7 @@ export default class App extends React.Component {
                     source={FortuneCookieImage}
                   />
                   <Text style={{ fontSize: 24, color: 'rgba(0,0,0,.28)' }}>
-                    Fortune Cookie
+                    Have a Cookie and a Fortune
                   </Text>
                   <Text style={{ marginHorizontal: 16, marginTop: 8 }}>
                     {fortune}

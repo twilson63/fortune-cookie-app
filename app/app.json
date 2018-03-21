@@ -14,9 +14,6 @@
     },
     "splash": {
       "image": "./assets/splash.png"
-    },
-    "infoPlist": {
-      "NSCameraUsageDescription": "Can override Plist info here"
     }
   }
 }
